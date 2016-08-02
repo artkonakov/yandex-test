@@ -198,7 +198,7 @@ footer p {
 	height: 34px;
 	width: 55px;
 	margin: 0 10px 0 0;
-	background-image: url("/images/svg/logo.svg");
+	background-image: url("../images/svg/logo.svg");
 	background-repeat: no-repeat;
 	background-position: left 4px;
 }
